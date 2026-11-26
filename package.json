@@ -1,0 +1,8 @@
+{
+  "name": "gentle-fridge-roast",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "main.ts",
+  "description": "One-line smart fridge roast for make.fun competition",
+  "license": "MIT"
+}
